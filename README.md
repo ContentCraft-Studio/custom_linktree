@@ -2,6 +2,8 @@
 
 This repository contains a custom Linktree solution that allows you to create and customize your own unique link page. Instead of relying on third-party services, this project gives you complete control over the appearance and functionality of your link page. Design your page to your liking, add special features, and organize your links in a way that suits your specific needs.
 
+![example custom linktree](https://github.com/ContentCraft-Studio/custom_linktree/blob/main/example.png?raw=true)
+
 ## Key Features
 
 - **Custom Design:** Personalize the appearance of your link page with complete freedom. Adjust colors, typography, and visual elements to match your personal style or brand.
