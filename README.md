@@ -1,0 +1,2 @@
+# custom_linktree
+ This repository is a custom Linktree solution that allows you to create and customize your own link page in a unique way. Instead of relying on third-party services, this project gives you full control over the appearance and functionality of your link page. You can design it to your liking, add special features, and keep your links organized in a way that best suits your needs.
